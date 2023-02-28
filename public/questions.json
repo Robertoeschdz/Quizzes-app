@@ -1,0 +1,15 @@
+{
+    "questions": [
+        {
+            "question": "Cual de las siguientes opciones no es un editor de codigo",
+            "choises": [
+                "vim",
+                "vscode",
+                "emacs",
+                "word",
+                "Juan"
+            ],
+            "answer": "word"
+        }
+    ]
+}
